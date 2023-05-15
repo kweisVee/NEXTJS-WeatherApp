@@ -9,6 +9,8 @@ const nextConfig = {
         //     },
         appDir: true,
         serverComponentsExternalPackages: ['@tremor/react'],
+        // Potential new config flag:
+        // disableExperimentalFeaturesWarning: true,
     },
 }
 
